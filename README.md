@@ -5,17 +5,27 @@
 This is the homepage for an extended talk on dynamic programming at the [DSE
 Summer School](https://dseconf.org/) to be held at ANU in December 2022.
 
-Instructor:
+## Instructor
 
-* John Stachurski ([Australian National University](https://www.anu.edu.au/), Co-founder of [QuantEcon](https://dseconf.org/))
+* John Stachurski 
 
-Topics:
+## Topics
 
 The talk will cover theory and applications of dynamic programming.
 
 All of the material is based on the forthcoming textbook [Dynamic
 Programming](https://github.com/QuantEcon/book-dp1/) by Thomas J. Sargent and
-John Stachurski
+John Stachurski.
+
+### Agenda
+
+1. Quick intro via job search
+2. Review of MDPs
+2. MDP algorithms
+2. Refactoring dynamic programs
+2. Implementing DP in Python (Numba, JAX, GPUs)
+
+## Resources
 
 The [GitHub repository](https://github.com/QuantEcon/book-dp1/) contains 
 
