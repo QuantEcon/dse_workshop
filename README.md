@@ -27,7 +27,7 @@ John Stachurski.
 
 ## Resources
 
-The [GitHub repository](https://github.com/QuantEcon/book-dp1/) contains 
+The [Dynamic Programming GitHub repository](https://github.com/QuantEcon/book-dp1/) contains 
 
 * the latest version of the text (dp.pdf) 
 * the lecture slides (see `slides`)
